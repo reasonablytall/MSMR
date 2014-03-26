@@ -94,6 +94,7 @@ p {
   font-size: 16px;
   margin-top: 0px;
   margin-bottom: 20px;
+  text-align: justify;
 }
 a {
   text-decoration:none;
@@ -114,6 +115,17 @@ a {
   padding: 0px;
   max-width: 100%;
 }
+
+.two-media-div
+{
+  margin: 20px;
+  padding: 0px;
+  max-width: 100%;
+  display: inline-block;
+  float: left;
+  
+}
+
 hr {
   width: 100%;
   border: 0;
